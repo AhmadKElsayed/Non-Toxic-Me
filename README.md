@@ -15,6 +15,8 @@ The core of this project is a **BERT-base** model fine-tuned on toxicity dataset
 - **Labels:** Toxic, Very Toxic, Obscene, Threat, Insult, Identity Hate.
 - **Training:** The fine-tuning process, loss curves, and evaluation metrics are documented in the `/notebooks` directory.
 
+```
+
 ---
 
 ## 🛠️ Installation & Setup
