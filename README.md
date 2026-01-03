@@ -1,4 +1,3 @@
-```markdown
 # ☢️ Non-Toxic Me (Pro Voice Edition)
 
 An AI-powered toxicity detection pipeline that uses a fine-tuned **BERT** model to analyze text. This version features **Speech-to-Text (STT)** for voice input and **Text-to-Speech (TTS)** for narrated feedback.
@@ -15,7 +14,6 @@ The core of this project is a **BERT-base** model fine-tuned on toxicity dataset
 - **Labels:** Toxic, Very Toxic, Obscene, Threat, Insult, Identity Hate.
 - **Training:** The fine-tuning process, loss curves, and evaluation metrics are documented in the `/notebooks` directory.
 
-```
 
 ---
 
