@@ -75,5 +75,3 @@ NonToxicMe/
 └── README.md           # Documentation
 
 ```
-
-```
