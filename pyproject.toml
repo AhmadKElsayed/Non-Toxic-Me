@@ -1,0 +1,19 @@
+[project]
+name = "nontoxicme"
+version = "0.1.0"
+description = "Toxicity detection with STT and TTS support"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gradio>=5.0.0",
+    "transformers>=4.48.0",
+    "torch>=2.5.0",
+    "torchaudio>=2.5.0",
+    "openai-whisper",
+    "gtts",
+    "librosa",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

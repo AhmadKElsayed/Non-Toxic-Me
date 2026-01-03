@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Audio Temp Files
+*.mp3
+*.wav
+
+# System
+.DS_Store
